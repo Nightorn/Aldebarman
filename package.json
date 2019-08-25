@@ -1,0 +1,30 @@
+{
+  "name": "aldebarman",
+  "version": "0.2.1",
+  "description": "A Discord bot made specifically for the Aldebaran official server.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nightorn/Aldebarman.git"
+  },
+  "dependencies": {
+    "discord.js": "git://github.com/discordjs/discord.js.git#master"
+  },
+  "keywords": [
+    "aldebarman",
+    "nightorn",
+    "discord",
+    "bot",
+    "aldebaran"
+  ],
+  "author": "Nightorn",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Nightorn/Aldebarman/issues"
+  },
+  "homepage": "https://github.com/Nightorn/Aldebarman#readme"
+}

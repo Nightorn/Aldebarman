@@ -1,0 +1,14 @@
+[
+    {
+        "text": "this server playing",
+        "type": "WATCHING"
+    },
+    {
+        "text": "{NUSERS} users' keyboard",
+        "type": "LISTENING"
+    },
+    {
+        "text": "version {VERSION}",
+        "type": "PLAYING"
+    }
+]
